@@ -1,11 +1,5 @@
 class QuestionsController < ApplicationController
   def ask
-  #   @question = params['question']
-  #   # if @question != ""
-  #     @answer = answer
-  #   # else
-  #   #   @answer = 'Ask one more time!'
-  #   end
   end
 
   def answer
